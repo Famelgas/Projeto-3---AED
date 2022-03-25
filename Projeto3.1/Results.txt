@@ -1,0 +1,22 @@
+Tempo para 5000 linhas: 0.008941173553466797
+
+Tempo para 10000 linhas: 0.032559871673583984
+
+Tempo para 25000 linhas: 0.055171966552734375
+
+Tempo para 50000 linhas: 0.09393525123596191
+
+Tempo para 75000 linhas: 0.1688380241394043
+
+--------------------------------
+
+Tempo para 5000 linhas: 0.009251117706298828
+
+Tempo para 10000 linhas: 0.01513814926147461
+
+Tempo para 25000 linhas: 0.0339810848236084
+
+Tempo para 50000 linhas: 0.09288406372070312
+
+Tempo para 75000 linhas: 0.13920092582702637
+
