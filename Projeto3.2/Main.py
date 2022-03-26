@@ -155,6 +155,7 @@ def main():
 
             elif user_in[0] == "LISTAGEM":
                 splay_tree.list_tree(splay_tree.root)
+                outln("FIM")
 
             elif user_in[0] == "APAGA":
                 splay_tree.delete_tree()
