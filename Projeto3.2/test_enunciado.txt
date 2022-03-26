@@ -1,0 +1,9 @@
+ARTIGO Pintura1 abcdef 100
+ARTIGO Pintura1 abcdef 150
+OFERTA Pintura1 110
+CONSULTA Pintura1
+CONSULTA Pintura2
+ARTIGO Pintura2 abcde3 150
+LISTAGEM
+APAGA
+FIM

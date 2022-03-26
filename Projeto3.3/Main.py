@@ -207,11 +207,6 @@ def main(test_file):
     user_in = [""]
     run_time = 0
 
-   
-
-
-
-
     with open(test_file, "r") as file:
         try:
             while True:
